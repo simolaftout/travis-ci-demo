@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/simolaftout/travis-ci-demo.svg?branch=master)](https://travis-ci.org/simolaftout)
+
 This is a beginner tutorial of Travis CI for Node projects.
 
 ## How to use
